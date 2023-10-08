@@ -23,7 +23,7 @@ Made by people who know what they're doing.
 
 Install astra using - [Monke Mod Manager](https://github.com/DeadlyKitten/MonkeModManager)
 
-## Demo Install:
+## Demo Install
 (insert .gif of how to install)
 
 
