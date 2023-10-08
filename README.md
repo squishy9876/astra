@@ -13,8 +13,8 @@ Made by people who know what they're doing.
 ## Devs
 
 - [SQUISHY](https://www.github.com/squishy9876)
-- [RXIN](https://www.github.com/placeholder-profile)
-- [NOTFISHVR](https://www.github.com/placeholder-profile)
+- [RXIN](https://github.com/RxinIsDaddy)
+- [NOTFISHVR](https://github.com/notfishvr6969)
 - [CALIGULA](https://www.github.com/placeholder-profile)
 
 
